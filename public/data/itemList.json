@@ -1,0 +1,26 @@
+[
+	{
+		"id":"0001",
+		"name":"WEB+DB PRESS Vol.85",
+		"price":1598,
+		"img":"http://ecx.images-amazon.com/images/I/81xFBNF4hHL.jpg"
+	},
+	{
+		"id":"0002",
+		"name":"Scala逆引きレシピ (PROGRAMMER’S RECiPE)",
+		"price":3456,
+		"img":"http://ecx.images-amazon.com/images/I/51sSPtHuICL.jpg"
+	},
+	{
+		"id":"0003",
+		"name":"エリック・エヴァンスのドメイン駆動設計",
+		"price":5616,
+		"img":"http://ecx.images-amazon.com/images/I/51rgnUkmlzL.jpg"
+	},
+	{
+		"id":"0004",
+		"name":"Java言語で学ぶデザインパターン入門",
+		"price":4104,
+		"img":"http://ecx.images-amazon.com/images/I/712RxXxBpZL.jpg"
+	}
+]
